@@ -1,0 +1,2 @@
+# midnd
+just random thought
